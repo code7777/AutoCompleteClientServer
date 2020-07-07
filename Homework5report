@@ -1,0 +1,13 @@
+Report Homework5
+Sources : 
+//https://stackoverflow.com/questions/7166328/when-why-to-call-system-out-flush-in-java
+//https://stackoverflow.com/questions/27117567/java-transfer-a-file-from-server-to-client-and-from-client-to-server
+//https://coderanch.com/t/206557/java/send-message-Server-Client
+
+In this assignment I found sending the autocomplete results from the server to the client to be difficult.
+I planned this assignment by first taking in arguments from main for the client and successfully sending them to the 
+Server. After I got that step I had to open the file name in the server. After the file was opened in the server I tried to 
+get it to match all of the prefixes for up to 7 results. I was not able to get the results from the server back to the client.
+
+I learned about client and server models using sockets in Java. In operating systems we learned about how a buffer is flushed and
+I got to see that implemented in a client server model in Java.
